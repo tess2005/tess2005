@@ -22,23 +22,27 @@
 
 ---
 
-### 🚀 Projects & Developed Code
+### 🚀 Highlighted Flagship Projects
 
-* 📊 **[Supply Chain & Traffic Bottleneck Analyzer](https://github.com/tess2005/supply-chain-analyzer)** *(Active Flagship Build)*
-  * **Overview:** An end-to-end data engine that identifies supply routing delays using machine learning regression and calculates optimal re-routing using graph search algorithms (Dijkstra/A*).
+* 📊 **[Supply Chain & Traffic Bottleneck Analyzer](https://github.com/tess2005/supply-chain-analyzer)**
+  * **Overview:** Production-ready data engine identifying routing delays via ML regression and dynamically recalculating paths using Dijkstra's algorithm.
   * **Tech Stack:** Python, Pandas, Scikit-Learn, NetworkX, Streamlit.
 
+* ⚡ **[High-Performance Distributed Graph Processing Engine](https://github.com/tess2005/distributed-graph-engine)**
+  * **Overview:** Multi-core parallel graph processor executing PageRank across partitioned subgraphs using process-level concurrency and load balancing.
+  * **Tech Stack:** Python, Multiprocessing, Concurrent Futures, Algorithmic Profiling.
+
 * 🤖 **[Codec AI Internship Projects](https://github.com/tess2005/Codec-AI-Internship)**
-  * **Overview:** Developed custom Machine Learning, Deep Learning, and NLP code pipelines during a 1-month AI internship at Codec Technologies.
-  * **Handwritten Digit Recognizer:** Developed and trained a CNN architecture with TensorFlow/Keras reaching **98.68% test accuracy** on the MNIST dataset (`digit_recognizer.py`).
-  * **Spam Email Classifier:** Built a natural language processing model using TF-IDF feature extraction and Naive Bayes classification (`spam_classifier.py`).
-  * **Tech Stack:** Python, TensorFlow, Keras, Scikit-Learn, Pandas, Matplotlib.
+  * **Overview:** Machine Learning and Computer Vision pipelines developed during an AI internship.
+  * **Handwritten Digit Recognizer:** Trained a CNN model achieving **98.68% accuracy** on MNIST (`digit_recognizer.py`).
+  * **Spam Email Classifier:** Text classification pipeline using TF-IDF and Naive Bayes (`spam_classifier.py`).
+  * **Tech Stack:** Python, TensorFlow, Keras, Scikit-Learn, Pandas.
 
 ---
 
 ### 📈 GitHub Stats
 
-![Tess's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tess2005&show_icons=true&theme=tokyonight&hide_border=true)  
+![Tess's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tess2005&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tess2005&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
