@@ -5,11 +5,11 @@
 # Tess Thomas | M.S. Computer Science Applicant
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-GNN-EE4C2C?logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-VCS-orange?logo=git&logoColor=white)
 ![Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
-Focusing on **Parallel & Distributed Systems**, **Graph Algorithm Optimization**, and **High-Performance Computing**.
+Focusing on **Parallel & Distributed Systems**, **Physics-Informed Graph Neural Networks**, and **Algorithmic Optimization**. Target applicant for top-tier German technical universities (TUM, RWTH Aachen, TU Berlin).
 ---
 
 ### 🔬 Technical Profile & Skills
@@ -31,13 +31,20 @@ Focusing on **Parallel & Distributed Systems**, **Graph Algorithm Optimization**
 
 ### 🚀 Highlighted Flagship Projects
 
-* 📊 **[Supply Chain & Traffic Bottleneck Analyzer](https://github.com/tess2005/supply-chain-analyzer)**
-  * **Overview:** Production-ready data engine identifying routing delays via ML regression and dynamically recalculating paths using Dijkstra's algorithm.
-  * **Tech Stack:** Python, Pandas, Scikit-Learn, NetworkX, Streamlit.
+*### ⚛️ [pignn-mechanics-engine](https://github.com/tess2005/pignn-mechanics-engine)
+> **Physics-Informed Graph Dynamics & N-Body Simulation Engine**
+- Models physical interactions (Newtonian, Hookean, Coulomb potentials) as dynamic graph message passing networks.
+- Employs Velocity-Verlet symplectic numerical integration to guarantee total energy conservation ($\Delta E \approx 0$).
 
-* ⚡ **[High-Performance Distributed Graph Processing Engine](https://github.com/tess2005/distributed-graph-engine)**
-  * **Overview:** Multi-core parallel graph processor executing PageRank across partitioned subgraphs using process-level concurrency and load balancing.
-  * **Tech Stack:** Python, Multiprocessing, Concurrent Futures, Algorithmic Profiling.
+### 🕸️️ [distributed-graph-engine](https://github.com/tess2005/distributed-graph-engine)
+> **Scalable Multiprocessing IPC Graph Analytics Platform**
+- Implements parallel PageRank convergence using Python `multiprocessing` inter-process communication queues.
+- Benchmark-verified $3.56\times$ speedup across $10^6$ node synthetic power-law network models.
+
+### 📦 [supply-chain-analyzer](https://github.com/tess2005/supply-chain-analyzer)
+> **Directed Acyclic Graph (DAG) Critical Path & Vulnerability Engine**
+- Analyzes bottleneck propagation and topological node criticalities in complex logistical networks.
+- Fully automated via GitHub Actions CI/CD test matrices.
 
 * 🤖 **[Codec AI Internship Projects](https://github.com/tess2005/Codec-AI-Internship)**
   * **Overview:** Machine Learning and Computer Vision pipelines developed during an AI internship.
@@ -52,6 +59,9 @@ Focusing on **Parallel & Distributed Systems**, **Graph Algorithm Optimization**
 ![Tess's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tess2005&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tess2005&layout=compact&theme=tokyonight&hide_border=true)
 ---
+## 📌 Active Development Roadmap
+
+Track active milestones, profiling benchmarks, and continuous integration workflows on my public **[Distributed Systems & Physics Roadmap](https://github.com/users/tess2005/projects)** board.
 
 ### 📬 Contact
 
