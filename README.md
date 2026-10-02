@@ -2,7 +2,14 @@
 
 🎓 **Aspiring M.S. Student in Computer Science / Data Science**  
 💡 Focused on **Applied Data Science**, **Machine Learning & NLP**, and **Algorithmic Optimization**.
+# Tess Thomas | M.S. Computer Science Applicant
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VCS-orange?logo=git&logoColor=white)
+![Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+Focusing on **Parallel & Distributed Systems**, **Graph Algorithm Optimization**, and **High-Performance Computing**.
 ---
 
 ### 🔬 Technical Profile & Skills
