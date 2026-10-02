@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/Git-VCS-orange?logo=git&logoColor=white)
 ![Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
-Focusing on **Parallel & Distributed Systems**, **Physics-Informed Graph Neural Networks**, and **Algorithmic Optimization**. Target applicant for top-tier German technical universities (TUM, RWTH Aachen, TU Berlin).
+Focusing on **Parallel & Distributed Systems**, **Physics-Informed Graph Neural Networks**, and **Algorithmic Optimization**.
 ---
 
 ### 🔬 Technical Profile & Skills
