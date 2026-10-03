@@ -9,6 +9,7 @@
 ![Git](https://img.shields.io/badge/Git-VCS-orange?logo=git&logoColor=white)
 ![Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tess-Thomas-X)
 Focusing on **Parallel & Distributed Systems**, **Physics-Informed Graph Neural Networks**, and **Algorithmic Optimization**.
 ---
 
