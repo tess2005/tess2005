@@ -28,6 +28,13 @@ Focusing on **Parallel & Distributed Systems**, **Physics-Informed Graph Neural 
 * **Computer Vision & NLP:** Developing deep learning architectures for pattern recognition and natural language processing.
 * **Software Architecture:** Writing clean, modular, and type-hinted code structured for production environments.
 
+## 🔬 Research Focus & Systems Specialization
+
+I develop high-performance compute algorithms and distributed ML models for complex physical systems. My work focuses on parallelizing numerical integrators across GPUs for General Relativity simulations, NUMA-aware inter-process communication architectures, and enforcing physical conservation laws inside graph neural networks.
+
+- **Computational Physics:** Kerr Spacetime Geodesic Ray-Tracing, Symplectic Integrators, N-Body Dark Matter Halo Dynamics.
+- **High-Performance Computing:** CUDA C++, POSIX Shared Memory IPC, NUMA Task Scheduling, Lock-Free Concurrency.
+- **Physics-Informed ML:** Graph Neural Networks (PyG), Symplectic Velocity-Verlet Solvers, Conservation Law Enforcers.
 ---
 
 ### 🚀 Highlighted Flagship Projects
@@ -57,6 +64,22 @@ Focusing on **Parallel & Distributed Systems**, **Physics-Informed Graph Neural 
   * **Handwritten Digit Recognizer:** Trained a CNN model achieving **98.68% accuracy** on MNIST (`digit_recognizer.py`).
   * **Spam Email Classifier:** Text classification pipeline using TF-IDF and Naive Bayes (`spam_classifier.py`).
   * **Tech Stack:** Python, TensorFlow, Keras, Scikit-Learn, Pandas.
+  * ## 📜 Published Preprints & Technical Monograph Series
+
+1. **Theoretical Foundations of Null Geodesic Integration and Parallelized Ray-Tracing in Kerr Spacetime**  
+   *Tess Thomas* (2026) — Comprehensive Mathematical Monograph & SIMD Architecture  
+   [ResearchGate Preprint](https://www.researchgate.net/profile/Tess-Thomas-X)
+
+2. **High-Performance Distributed Graph Analytics via Shared-Memory Inter-Process Communication and NUMA-Aware Task Scheduling**  
+   *Tess Thomas* (2026) — Systems Architecture Technical Monograph  
+   [ResearchGate Preprint](https://www.researchgate.net/profile/Tess-Thomas-X)
+
+3. **Physics-Informed Graph Neural Networks for N-Body Dark Matter Halo Dynamics and Symplectic Orbital Integration**  
+   *Tess Thomas* (2026) — Computational Astrophysics Technical Monograph  
+   [ResearchGate Preprint](https://www.researchgate.net/profile/Tess-Thomas-X)
+
+4. **Physics-Informed Graph Neural Networks for Dynamical Systems with Symplectic Velocity-Verlet Integration**  
+   *Tess Thomas* (2026) — Technical Preprint | [DOI: 10.13140/RG.2.2.33859.16164](https://doi.org/10.13140/RG.2.2.33859.16164)
 
 ---
 
