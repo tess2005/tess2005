@@ -46,6 +46,11 @@ Focusing on **Parallel & Distributed Systems**, **Physics-Informed Graph Neural 
 > **Directed Acyclic Graph (DAG) Critical Path & Vulnerability Engine**
 - Analyzes bottleneck propagation and topological node criticalities in complex logistical networks.
 - Fully automated via GitHub Actions CI/CD test matrices.
+- 
+- ### 🌌 [Kerr Black Hole Geodesic Ray-Tracer (CUDA C++)](https://github.com/tess2005/kerr-geodesic-raytracer)
+> Massively parallel SIMD ray-marching engine integrating photon geodesics around spinning black holes using Carter's constants of motion and 4th-order Runge-Kutta stepping.
+- **Tech Stack:** C++17, CUDA 12.0, CMake, POSIX Threads
+- **Performance:** $770\times+$ parallel speedup over CPU baselines at 4K resolution ($\Delta H \le 10^{-8}$).
 
 * 🤖 **[Codec AI Internship Projects](https://github.com/tess2005/Codec-AI-Internship)**
   * **Overview:** Machine Learning and Computer Vision pipelines developed during an AI internship.
